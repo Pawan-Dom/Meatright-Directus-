@@ -1,0 +1,7 @@
+{
+  "name": "Meatright-Directus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
